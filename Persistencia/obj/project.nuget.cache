@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BIKusoAuwMhGJVE/mXLRhl+U55rAsKaffsZ4IiK/MHVyH9kWPZxyoVzeCwotqZHd90MTm/tIBLn+5qaYuR8Wkw==",
+  "dgSpecHash": "HdKXBUYGZ1ZeA270rjj4CdlTpfm46yDzbdTBWHX/nGm4t79ZUMzzRAkBI5ntH8Q+lR89K0btkRYJ79ORb8pIaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",

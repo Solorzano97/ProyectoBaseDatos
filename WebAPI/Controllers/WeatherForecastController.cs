@@ -22,9 +22,9 @@ namespace WebAPI.Controllers
    
 
         [HttpGet]
-        public IEnumerable<empleado> Get()
+        public IEnumerable<bodega> Get()
         {
-           return context.empleado.ToList();
+           return context.bodega.ToList();
         }
     }
 }

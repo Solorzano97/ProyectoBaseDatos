@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bkn8TTdSHAuomfvaMfCuvt6q3Jab36ODxytl/pICRws9A+HqC5CqfrWlKJA/tDnp4f5bVlq/tVKV3AblVLLw4A==",
+  "dgSpecHash": "LKjF/X9+F3OD9l0/Wtm0edaw1Sgtat9g6Q3oSWgTX2qMWk4RSkLHtaV0/QevkJ3Eu9VXPrTBVOsfpmf6wL487w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",

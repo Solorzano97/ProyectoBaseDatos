@@ -5350,11 +5350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj",
+      "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\Andres Solorzano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\obj\\",
+      "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andres Solorzano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5371,11 +5371,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj"
+            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj"
+            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj"
             }
           }
         }

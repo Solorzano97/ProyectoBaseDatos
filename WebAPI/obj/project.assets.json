@@ -5910,11 +5910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Andres Solorzano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andres Solorzano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5931,11 +5931,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj"
             },
-            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj": {
-              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre 8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj"
+            "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj": {
+              "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj"
             }
           }
         }

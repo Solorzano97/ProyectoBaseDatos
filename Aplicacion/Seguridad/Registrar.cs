@@ -20,11 +20,10 @@ namespace Aplicacion.Seguridad
         public class Ejecut : IRequest<UsuarioData>{
 
               [Required(ErrorMessage ="el campo nombre es requerido")]   
-            [RegularExpression("[a-zA-Z]{2,20}", 
+            [RegularExpression("[a-zA-Z ]{2,200}", 
             ErrorMessage = "Solo admite    letras entre 2 y 20")] 
-            public string Nombre{get;set;}
-            [Required(ErrorMessage ="el campo correo es  requerido")]
-            public string Apellidos{get;set;}
+            public string nombreCompleto{get;set;}
+            
 
             [Required(ErrorMessage ="el campo correo es  requerido")]
             [EmailAddress(ErrorMessage = "No tiene el formato de email")]
@@ -63,7 +62,7 @@ namespace Aplicacion.Seguridad
                 }
 
                 var user = new usuario{
-                    nombreCompleto= request.Nombre + " " + request.Apellidos,
+                    nombreCompleto= request.nombreCompleto,
                     Email = request.Email,
                     UserName = request.Username
 

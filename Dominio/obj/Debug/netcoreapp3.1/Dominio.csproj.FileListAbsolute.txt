@@ -16,3 +16,12 @@ C:\Users\Andres Solorzano\Desktop\Andres\semestre 8\proycto_respaldo_analis\Proy
 C:\Users\Andres Solorzano\Desktop\Andres\semestre 8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Andres Solorzano\Desktop\Andres\semestre 8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\Andres Solorzano\Desktop\Andres\semestre 8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Andres Solorzano\Desktop\Andres\semestre8\proycto_respaldo_analis\ProyectoAnalisis2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
