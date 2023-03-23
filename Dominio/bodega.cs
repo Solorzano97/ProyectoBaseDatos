@@ -11,6 +11,8 @@ namespace Dominio
         public string direccion {get;set;}
         public string telefono {get; set;}
         public string email {get;set;}
+        
+        
 
         public ICollection<existencias> existenciasbodega {get;set;} //relacion
         public ICollection<empleado> empleados {get;set;} //relacion

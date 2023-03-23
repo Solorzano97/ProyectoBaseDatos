@@ -9,6 +9,7 @@ namespace Dominio
         public int BodegaId {get;set;}
         public int ProductoId {get;set;}
         public int TipoMovimientoId {get;set;}
+        public int BodegaId2 {get;set;} 
 
         
 

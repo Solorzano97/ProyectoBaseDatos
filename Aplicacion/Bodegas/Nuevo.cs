@@ -25,6 +25,8 @@ namespace Aplicacion.Bodegas
             [Required(ErrorMessage ="el campo email es requerido")]
             [EmailAddress(ErrorMessage = "No tiene el formato de email")]
             public string email {get;set;}
+
+            
             
         }
 

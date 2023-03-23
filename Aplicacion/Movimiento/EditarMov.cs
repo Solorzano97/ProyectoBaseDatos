@@ -22,6 +22,7 @@ namespace Aplicacion.Movimiento
             public int BodegaId {get;set;}
             public int ProductoId {get;set;}
             public int TipoMovimientoId {get;set;}
+            public int BodegaId2 {get;set;} 
         }
 
 
@@ -43,6 +44,7 @@ namespace Aplicacion.Movimiento
                  movi.BodegaId = request.BodegaId ;
                  movi.ProductoId = request.ProductoId ;
                  movi.TipoMovimientoId = request.TipoMovimientoId;
+                 movi.BodegaId2 = request.BodegaId2;
 
                  var resultado = await _context.SaveChangesAsync();
 

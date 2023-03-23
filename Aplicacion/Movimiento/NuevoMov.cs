@@ -21,6 +21,7 @@ namespace Aplicacion.Movimiento
             public int BodegaId {get;set;}
             public int ProductoId {get;set;}
             public int TipoMovimientoId {get;set;}
+            public int BodegaId2 {get;set;} 
         }
 
         public class Manejador : IRequestHandler<newmovimiento>
@@ -38,7 +39,8 @@ namespace Aplicacion.Movimiento
                     cantidad = request.cantidad ,
                     BodegaId = request.BodegaId ,
                     ProductoId = request.ProductoId ,
-                    TipoMovimientoId = request.TipoMovimientoId
+                    TipoMovimientoId = request.TipoMovimientoId ,
+                    BodegaId2 = request.BodegaId2 
             };
 
             _context.movimientos.Add(movimiento);
